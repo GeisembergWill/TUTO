@@ -1,8 +1,10 @@
-<h1>Exercice 8 </h1>
+<h1>Exercice 9</h1>
 
 
 
 <h2>Résultat</h2>
+
+<?php
 
 
 
