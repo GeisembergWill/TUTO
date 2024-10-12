@@ -1,4 +1,6 @@
-<?php
+<h1>Exercice 6 </h1>
 
-echo  "le titre";
+
+
+<h2>Résultat</h2>
 
